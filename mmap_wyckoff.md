@@ -110,15 +110,15 @@ markmap:
 - Buscamos que haya una concordancia entre los rangos del precio y el volumen operado.
 - Queremos ver **rangos amplios en volúmenes altos** y **rangos estrechos en los volúmenes bajos**. ==Lo opuesto nos marcaría una divergencia.==
 - El análisis vela a vela nos resulta especialmente útil para la ==identificación del gatillo de entrada== y para ver acciones clave aisladas como ==eventos climáticos==.
-- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley fundamental - en el desarrollo de una vela.png "Ejemplo Armonia y divergencia en desarrollo vela")
+- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley_fundamental-en_el_desarrollo_de_una_vela.png "Ejemplo Armonia y divergencia en desarrollo vela")
 
 ##### En el siguiente desplazamiento
 
-- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley fundamental - en el siguiente desplazamiento.png "Ejemplo Armonia y divergencia en el siguiente desplazamiento")
+- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley_fundamental-en_el_siguiente_desplazamiento.png "Ejemplo Armonia y divergencia en el siguiente desplazamiento")
 
 ##### En el desarrollo de los movimientos
 
-- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley fundamental - en el desarrollo de una vela.png "Ejemplo Armonia y divergencia en el desarrollo de una vela")
+- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley_fundamental-desarrollo_movimiento.png "Ejemplo Armonia y divergencia en el desarrollo de movimiento")
 
 ## Parte 3: Los Procesos de Acumulación y Distribución
 

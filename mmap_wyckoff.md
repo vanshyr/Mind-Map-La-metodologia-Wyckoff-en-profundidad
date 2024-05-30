@@ -86,10 +86,39 @@ markmap:
 - **Clímax**: El movimiento después del último impulso revierte por completo y con fuerza dicho impulso previo.
 - **​​Doble** techo/suelo. El movimiento encargado de hacer un nuevo máximo/mínimo se queda en el mismo nivel del máximo/mínimo previo y después revierte. ​
 - **​Falla**. El movimiento encargado de hacer un nuevo máximo/mínimo no logra alcanzar al máximo/mínimo previo antes de revertir.
+- **Trampa**. El movimiento encargado de hacer un nuevo máximo/mínimo sobrepasa levemente (hasta +20%) el máximo/mínimo previo para después revertir.
 
-- ![](/img/esquema_rapido.png)
+- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/esquema_rapido.png "Ejemplo esquema rapido")
 
 ### La ley de Esfuerzo y Resultado<!-- markmap: fold -->
+
+#### Resumen
+
+- El análisis bajo la ley de esfuerzo y resultado trata de evaluar la acción del precio y el volumen con el objetivo de determinar si existe armonía o divergencia entre ellos y poder dilucidar si el interés es genuino o falso en dicha acción en particular.
+- Se trata de evaluar la dominación de compradores o vendedores a través de la convergencia y divergencia entre el precio y el volumen.
+
+#### La importancia del volumen
+
+- El volumen identifica la cantidad de stock (acciones, unidades, contratos) que ha cambiado de manos.
+- **La participación de los grandes operadores se identifica al observarse un aumento en el volumen.**
+
+#### Armonía y divergencia
+
+##### En el desarrollo de una vela
+
+- Es la evaluación más simple. Tratamos de analizar la acción del precio y el volumen en una simple vela de forma individual.
+- Buscamos que haya una concordancia entre los rangos del precio y el volumen operado.
+- Queremos ver **rangos amplios en volúmenes altos** y **rangos estrechos en los volúmenes bajos**. ==Lo opuesto nos marcaría una divergencia.==
+- El análisis vela a vela nos resulta especialmente útil para la ==identificación del gatillo de entrada== y para ver acciones clave aisladas como ==eventos climáticos==.
+- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley fundamental - en el desarrollo de una vela.png "Ejemplo Armonia y divergencia en desarrollo vela")
+
+##### En el siguiente desplazamiento
+
+- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley fundamental - en el siguiente desplazamiento.png "Ejemplo Armonia y divergencia en el siguiente desplazamiento")
+
+##### En el desarrollo de los movimientos
+
+- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley fundamental - en el desarrollo de una vela.png "Ejemplo Armonia y divergencia en el desarrollo de una vela")
 
 ## Parte 3: Los Procesos de Acumulación y Distribución
 

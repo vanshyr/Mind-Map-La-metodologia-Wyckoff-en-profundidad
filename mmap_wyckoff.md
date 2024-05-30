@@ -76,10 +76,18 @@ markmap:
 
 ### La Ley de Causa y Efecto<!-- markmap: fold -->
 
-### Resumen<!-- markmap: fold -->
+#### Resumen<!-- markmap: fold -->
 
 - no puede suceder algo de la nada
 - Para ver un cambio en el precio, primero debe haberse construido una causa que lo origine.
+
+#### Esquemas Rapidos
+
+- **Clímax**: El movimiento después del último impulso revierte por completo y con fuerza dicho impulso previo.
+- **​​Doble** techo/suelo. El movimiento encargado de hacer un nuevo máximo/mínimo se queda en el mismo nivel del máximo/mínimo previo y después revierte. ​
+- **​Falla**. El movimiento encargado de hacer un nuevo máximo/mínimo no logra alcanzar al máximo/mínimo previo antes de revertir.
+
+- ![](/img/esquema_rapido.png)
 
 ### La ley de Esfuerzo y Resultado<!-- markmap: fold -->
 

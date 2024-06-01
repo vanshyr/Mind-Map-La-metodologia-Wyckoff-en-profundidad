@@ -249,7 +249,7 @@ markmap:
 - Fin del interes por seguir vendiendo.
 - Ligero aumento de demanda provocaria inicio de la tendencia alcista.
 
-##### Reacumulacion
+### Reacumulacion
 
 ### Distribución<!-- markmap: fold -->
 

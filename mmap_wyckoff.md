@@ -127,19 +127,11 @@ markmap:
 - Buscamos que haya una concordancia entre los rangos del precio y el volumen operado.
 - Queremos ver **rangos amplios en volúmenes altos** y **rangos estrechos en los volúmenes bajos**. ==Lo opuesto nos marcaría una divergencia.==
 - El análisis vela a vela nos resulta especialmente útil para la ==identificación del gatillo de entrada== y para ver acciones clave aisladas como ==eventos climáticos==.
-- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley_esfuerzo_resultado-en_el_desarrollo_de_una_vela.png "Ejemplo Armonia y divergencia en desarrollo vela")
+- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley fundamental - en el desarrollo de una vela.png "Ejemplo Armonia y divergencia en desarrollo vela")
 
 ##### En el siguiente desplazamiento
 
-- Tratamos de analizar la acción del precio y el volumen en una porción más amplia; en el desplazamiento posterior del precio.
-- Queremos evaluar si ese volumen genera un movimiento en la dirección de la vela original o si por el contrario el precio se desplaza en la dirección opuesta tras observarse ese aumento en el volumen.
-  -Obtendríamos una ==armonía esfuerzo/resultado si esa vela más ese volumen provocan una continuación en el movimiento; y divergencia si se genera un giro en el mercado.==
-- Dos tipos de movimientos, **impulsivo** y **correctivo**
-
-  - Impulsivo: Movimiento apoyado con volumen. ==Indica presencia de operadores institucionales.==
-  - Retroceso/Correctivo: Sin apoyo de volumen. ==Sugiere retroceso sino muy probable divergencia==
-
-- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley_fundamental-en_el_siguiente_desplazamiento.png "Ejemplo Armonia y divergencia en el siguiente desplazamiento")
+- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley fundamental - en el siguiente desplazamiento.png "Ejemplo Armonia y divergencia en el siguiente desplazamiento")
 
 ##### En el desarrollo de los movimientos
 

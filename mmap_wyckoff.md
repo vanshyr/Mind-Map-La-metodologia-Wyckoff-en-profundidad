@@ -127,18 +127,26 @@ markmap:
 - Buscamos que haya una concordancia entre los rangos del precio y el volumen operado.
 - Queremos ver **rangos amplios en volúmenes altos** y **rangos estrechos en los volúmenes bajos**. ==Lo opuesto nos marcaría una divergencia.==
 - El análisis vela a vela nos resulta especialmente útil para la ==identificación del gatillo de entrada== y para ver acciones clave aisladas como ==eventos climáticos==.
-- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley fundamental - en el desarrollo de una vela.png "Ejemplo Armonia y divergencia en desarrollo vela")
+- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley_esfuerzo_resultado-en_el_desarrollo_de_una_vela.png "Ejemplo Armonia y divergencia en desarrollo vela")
 
 ##### En el siguiente desplazamiento
 
-- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley fundamental - en el siguiente desplazamiento.png "Ejemplo Armonia y divergencia en el siguiente desplazamiento")
+- Tratamos de analizar la acción del precio y el volumen en una porción más amplia; en el desplazamiento posterior del precio.
+- Queremos evaluar si ese volumen genera un movimiento en la dirección de la vela original o si por el contrario el precio se desplaza en la dirección opuesta tras observarse ese aumento en el volumen.
+  -Obtendríamos una ==armonía esfuerzo/resultado si esa vela más ese volumen provocan una continuación en el movimiento; y divergencia si se genera un giro en el mercado.==
+- Dos tipos de movimientos, **impulsivo** y **correctivo**
+
+  - Impulsivo: Movimiento apoyado con volumen. ==Indica presencia de operadores institucionales.==
+  - Retroceso/Correctivo: Sin apoyo de volumen. ==Sugiere retroceso sino muy probable divergencia==
+
+- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley_esfuerzo_resultado-en_el_siguiente_desplazamiento.png "Ejemplo Armonia y divergencia en el siguiente desplazamiento")
 
 ##### En el desarrollo de los movimientos
 
 - Aumentamos la porción de nuestro análisis y en esta ocasión analizamos la acción del precio y el volumen en término de movimientos completos.
 - **Armonia:** Movimiento de impulso con aumentando volumen y retroceso con disminucion.
 - **Divergencia:** Movimiento cuyo impulso es relativamente menor al visto anteriormente y el retroceso muestra un volumen mayor.(evaluar si es retroceso real)
-- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley_fundamental-desarrollo_movimiento.png "Ejemplo Armonia y divergencia en el desarrollo de movimiento")
+- ![](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Ley_esfuerzo_resultado-desarrollo_movimiento.png "Ejemplo Armonia y divergencia en el desarrollo de movimiento")
 
 ##### Por Ondas
 
@@ -192,7 +200,54 @@ markmap:
 - Batalla entre operadores bien informados y operadores mal informados.
 - Cuanto más líquido sea el mercado financiero, más difícil será que pueda ser manipulado.
 
+### Esquemas Rapidos y Lentos
+
+- Normalmente los procesos de acumulación y distribución requieren tiempo.
+- Estos esquemas lentos son las estructuras que la Metodología Wyckoff trata de analizar y sobre las que pondremos el foco a lo largo de este libro.
+- ![Esquema distributivo con sacudida (Upthrust)](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/esquema_rapidos_y_lentos.png "Esquemas rapidos y lentos: Esquema distributivo con sacudida (Upthrust)")
+- Para esquemas rapidos tenemos los expxlicados anteriormente: climas, falla, doble y trampa
+- ![Esquema rapido tipo doble](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/esquema_rapidos_y_lentos-esquema_tipo_doble.png "Esquema rapido tipo doble")
+
 ### Acumulación<!-- markmap: fold -->
+
+- ![Rango acumulacion](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/rango_acumulacion.png "Rango acumulacion")
+- Movimiento lateral del precio **precedido por un movimiento bajista** sobre el cual se lleva a cabo una campaña de compra del activo
+
+#### La Ley de causa y efecto
+
+- En el caso del rango de acumulación, el posicionamiento en compra (causa) tendrá como efecto un movimiento tendencial alcista posterior
+- El alcance de este movimiento va en proporcion con el tiempo y volumen usados dirante la estructura.
+
+#### Maniobras de manipulacion
+
+- En el rango de acumulacion se suele una sacudida bajista (Spring).
+- **El ==spring== es un movimiento brusco a la baja que rompe el soporte del rango, tratando de ejecutar los stop lost y que se supone iniciara un movimiento alcista.**
+
+#### Contrapartida, Liquidez
+
+- El hecho de alcanzar los stops de las posiciones de compra como la entrada en venta de algunos operadores proporciona liquidez a los profesionales que están acumulando
+- Cuando se produzca la reversión alcista de nuevo hacia el interior del rango, se ejecutarán también los stops de aquellos que entraron con posiciones vendedoras durante la rotura bajista, añadiendo fortaleza al movimiento alcista.
+
+#### El camino de la menor resistencia
+
+- Antes de iniciar un movimiento se verifica que el camino de la menor resistencia esta al alza.
+- Se realizan diversos test para verificar el compromiso de los vendedores.
+- Se inician movimientos a la baja para ver que seguimiento tienen.
+- Una ==**ausencia de volumen** en este punto sugeriría una falta de interés por alcanzar precios más bajos y el **mercado está preparado para comenzar a subir**.==
+- Es por esto que en ocasiones se ven más de una sacudida dentro del rango,
+
+#### Caracteristicas comunes de los rangos de acumulacion
+
+- **Disminución del volumen y de la volatilidad según se desarrolla el rango**.
+- **Tests a la zona alta del rango sin volumen**
+- **Sacudidas bajistas (Springs)**
+- **​​Movimientos y barras alcistas más amplias y fluidas que las bajistas**.
+- **​​Desarrollo de máximos y mínimos crecientes**.
+
+#### Inicio del movimiento Alcista
+
+- Fin del interes por seguir vendiendo.
+- Ligero aumento de demanda provocaria inicio de la tendencia alcista.
 
 ##### Reacumulacion
 

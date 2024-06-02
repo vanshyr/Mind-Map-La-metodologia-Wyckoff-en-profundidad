@@ -4,19 +4,19 @@ markmap:
   colorFreezeLevel: 2
 ---
 
-## Links
+## Introduction
+
+### Resumen
+
+- Resumen del libro La Metodología Wyckoff en Profundidad, ==**bajo mi punto de vista**==.
+- El objetivo es sintetizar los conceptos claves, para ello se han omitido capitulos y algunas partes del contexto.
+- **El resumen va dirigido a aquellos que ya se han leido el libro.**
+- Puedes adquirir los libros directamente del autor, Ruben Villahermosa, siguiendo los siguientes enlaces.
+
+### Links
 
 - [Ruben Villahermosa](https://rubenvillahermosa.com/)
 - [La Metodología Wyckoff en Profundidad](https://rubenvillahermosa.com/products/la-metodologia-wyckoff-en-profundidad-version-pdf)
-
-## Introduction<!-- markmap: fold -->
-
-- Overview of the book's purpose and audience.
-- Emphasizes the importance of understanding the Wyckoff methodology for better market analysis and decision-making.
-
-## Richard Wyckoff<!-- markmap: fold -->
-
-- Biography and contributions of Richard Wyckoff to financial markets.
 
 ## Parte 1: Cómo se Mueven los Mercados
 
@@ -54,9 +54,9 @@ markmap:
 
 ## Parte 2: Las Tres Leyes Fundamentales
 
-### Resumen<!-- markmap: fold -->
+### Resumen
 
-    - un resumen
+- Las tres leyes fundamentales en las que se basa la metodologia Wyckoff
 
 ### La ley de Oferta y Demanda<!-- markmap: fold -->
 
@@ -190,9 +190,10 @@ markmap:
 
 ### Resumen
 
+- Se encarga del establecimiento de precios.
 - Los procesos de acumulación y distribución se desarrollan de igual manera: a través de la absorción de las acciones en circulación.
 - En los mercados con stock ilimitado se intercambian contratos.
-- Los procesos de acumulación y distribución en los mercados de derivados no se basan en la absorción hasta agotar la disponibilidad del stock, sino que se basan en la agresividad y falta de interés de uno y otro lado (compradores y vendedores).
+- En los mercados de derivados no se basan en la absorción de stock, sino en la agresividad y falta de interés de los participantes (compradores y vendedores).
 - Al finalizar estos procesos, la mayor parte del mercado estará posicionado en una misma dirección. Justo en ese momento se desarrollará el efecto de la causa.
 
 ### Manos fuertes vs manos débiles<!-- markmap: fold -->
@@ -200,18 +201,27 @@ markmap:
 - Batalla entre operadores bien informados y operadores mal informados.
 - Cuanto más líquido sea el mercado financiero, más difícil será que pueda ser manipulado.
 
-### Esquemas Rapidos y Lentos
+### Esquemas Rapidos y Lentos<!-- markmap: fold -->
 
 - Normalmente los procesos de acumulación y distribución requieren tiempo.
 - Estos esquemas lentos son las estructuras que la Metodología Wyckoff trata de analizar y sobre las que pondremos el foco a lo largo de este libro.
-- ![Esquema distributivo con sacudida (Upthrust)](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/esquema_rapidos_y_lentos.png "Esquemas rapidos y lentos: Esquema distributivo con sacudida (Upthrust)")
+- ![Esquema distributivo con sacudida (Upthrust)](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/esquemas_rapidos_y_lentos.png "Esquemas rapidos y lentos: Esquema distributivo con sacudida (Upthrust)")
 - Para esquemas rapidos tenemos los expxlicados anteriormente: climas, falla, doble y trampa
 - ![Esquema rapido tipo doble](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/esquema_rapidos_y_lentos-esquema_tipo_doble.png "Esquema rapido tipo doble")
 
-### Acumulación<!-- markmap: fold -->
+### ==Acumulación==<!-- markmap: fold -->
 
+#### Resumen
+
+- ==Movimiento lateral del precio **precedido por un movimiento bajista** sobre el cual se lleva a cabo una campaña de compra del activo.==
 - ![Rango acumulacion](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/rango_acumulacion.png "Rango acumulacion")
-- Movimiento lateral del precio **precedido por un movimiento bajista** sobre el cual se lleva a cabo una campaña de compra del activo
+
+#### Resumen: Sucesion de eventos.
+
+- Movimiento bajista hacia nivel inferior del rango.
+- Spring, rompiendo el nivel inferior del rango.
+- Test que ==no supera el nivel del spring.==
+- Inicio movimiento alcista.
 
 #### La Ley de causa y efecto
 
@@ -225,18 +235,18 @@ markmap:
 
 #### Contrapartida, Liquidez
 
-- El hecho de alcanzar los stops de las posiciones de compra como la entrada en venta de algunos operadores proporciona liquidez a los profesionales que están acumulando
+- El hecho de alcanzar los stops de las posiciones de compra como la entrada en venta de algunos operadores proporciona liquidez a los profesionales que están acumulando.
 - Cuando se produzca la reversión alcista de nuevo hacia el interior del rango, se ejecutarán también los stops de aquellos que entraron con posiciones vendedoras durante la rotura bajista, añadiendo fortaleza al movimiento alcista.
 
 #### El camino de la menor resistencia
 
 - Antes de iniciar un movimiento se verifica que el camino de la menor resistencia esta al alza.
-- Se realizan diversos test para verificar el compromiso de los vendedores.
+- **Se realizan diversos test** para verificar el compromiso de los vendedores.
 - Se inician movimientos a la baja para ver que seguimiento tienen.
 - Una ==**ausencia de volumen** en este punto sugeriría una falta de interés por alcanzar precios más bajos y el **mercado está preparado para comenzar a subir**.==
-- Es por esto que en ocasiones se ven más de una sacudida dentro del rango,
+- Es por esto que en ocasiones se ven más de una sacudida dentro del rango.
 
-#### Caracteristicas comunes de los rangos de acumulacion
+#### ==Caracteristicas comunes de los rangos de acumulacion==
 
 - **Disminución del volumen y de la volatilidad según se desarrolla el rango**.
 - **Tests a la zona alta del rango sin volumen**
@@ -251,13 +261,157 @@ markmap:
 
 ### Reacumulacion
 
+#### Resumen
+
+- Exactamente idéntico al proceso de acumulación, solo que comienza tras la parada de un movimiento alcista.
+- Es el resultado de una tencendia alcista previa que necesita ser consolidada
+- ![Rango reacumulacion](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/reacumulacion.png "Reacumulacion")
+
+#### Absorción del stock
+
+- Demanda de pobre calidad.
+- Se necesita repedir proceso de absorcion.
+
+#### Reacumulacion o distribucion
+
+- ==Es muy importante un análisis precio y volumen para confundir reacumulación con distribución.==
+- Ambos se inician de igual manera.
+- **Es importante saber reconocer los rangos de acumulacion** ya que representan un desafio para esta metodologia.
+
 ### Distribución<!-- markmap: fold -->
 
-##### Redistribucion
+#### Resumen
+
+- ==Un rango de distribución es un movimiento lateral del precio el cual consigue detener un movimiento alcista y en el que se produce un proceso de venta.==
+- Los grandes operadores tratan de almacenar una gra posicion para deshacerse de ella.
+- ![Distribucion](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/distribucion.png "Distribucion")
+
+#### La Ley de causa y efecto
+
+- El posicionamiento en venta (causa) motivara una tendencial bajista.
+- El alcance ira en proporción al tiempo que haya pasado el precio construyendo esa causa (absorbiendo las compras).
+- Para poder ejecutar esta tarea, se necesita desarrollar y llevar a cabo un plan cuidadoso con el que intentar absorber toda la demanda disponible en el mercado al precio medio más alto posible.
+
+#### Maniobras de manipulacion
+
+- Aqui tambien se nos presentará el evento fundamental de la sacudida. (Upthrust)
+- **Upthrust:** Movimiento brusco al alza el cual rompe la resistencia del rango
+
+#### Contrapartida, Liquidez
+
+- Tambien se necesita liquidez.
+- Se busca hacer saltar los stop de las posiciones de venta.
+- Se colocan ordenes de venta y compra necesarias para ayudar al movimiento bajista.
+
+#### Camino de la menor resistencia
+
+- Antes de iniciar un movimiento se verifica que el camino de la menor resistencia esta a la baja.
+- **Se realizan diversos test** para los compradores y monitoriza el volumen del movimiento.
+- ==Una **ausencia de volumen** en este punto sugeriría una **falta de interés por alcanzar precios más altos**.==
+- Es por esto que en ocasiones se ven más de una sacudida dentro del rango.
+
+#### ==Caracteristicas de los rangos de distribucion==
+
+- **Volumen y volatilidad altos durante el desarrollo del rango.**
+- **​​Tests a la zona baja del rango sin volumen**
+- **​​Sacudidas alcistas (Upthrust) a máximos previos**
+- **Movimientos y barras bajistas más amplias y fluidas que las alcistas.**
+- ​​**Desarrollo de máximos y mínimos decrecientes.**
+
+#### Inicio del movimiento bajista
+
+- No hay mas demanda disponible.
+- Un ligero aumento de la oferta provocariala tendencia bajista.
+
+### Redistribucion
+
+#### Resumen
+
+- Fase que **proviene de un rango bajista y al que le sigue nueva tendencia bajista.**
+- Pueden suceder multiples fases de redistribucion.
+- **Es una pausa que refresca el valor para desarrollar otro movimiento a la baja.**
+
+#### Redistribucion o acumulacion
+
+- Comienza igual que los rangos de acumulación.
+- ==Importante saber distinguir entre redistribucion y acumulacion. **Punto clave de la metodologia**==
+
+#### Control de mercado
+
+- Durante la redistribucion se vuelve a vender alrededor del techo de rango.
+- Potencialmente se cierran/compran algunas posiciones cerca de la base del rango.
+- Se aumenta el tamaño de la posicion de los grande operadores.
+- **Redistribucion volatil antes de continuar la tendencia bajista.**
+
+Villahermosa, Rubén. La Metodología Wyckoff en Profundidad: Cómo operar con lógica los mercados financieros (Curso de Trading e Inversión: Análisis Técnico avanzado nº 2) (Spanish Edition) (p. 64). Kindle Edition.
 
 ## Parte 4: Los Eventos
 
+### Resumen
+
+- Secuencia que sigue el precio en el desarrollo de estas estructuras.
+- Lo más recomendable es observar tales eventos desde un punto de vista práctico, restando rigidez y proporcionando la mayor flexibilidad posible al análisis.
+- Los eventos son los mismos tanto para acumulaciones como para distribuciones.
+- Eventos:
+  - 1.- Parada Preliminar
+    - Intento por frenar el movimiento tendencial en marcha cuyo resultado siempre fracasará. Es una alerta temprana de que la tendencia puede que esté llegando a su fin.
+  - 2.- Climax
+    - Movimiento de culminación de la tendencia precedente. Tras haber recorrido una gran distancia, el precio alcanzará una condición extrema que provocará la aparición del gran profesional.
+  - 3.- Reaccion
+    - Es la primera gran señal que nos sugiere el cambio de sentimiento en el mercado. Pasamos de un mercado en control por alguna de las dos fuerzas a un mercado en equilibrio.
+  - 4.- Test
+    - En términos generales trata de evaluar el compromiso o ausencia de él por parte de los operadores en un determinado momento y dirección. Tiene diversas lecturas dependiendo de la ubicación.
+  - 5.- Sacudida
+    - **Momento clave para el análisis de la estructura**. Es el último engaño desarrollado por el profesional antes de iniciar el movimiento tendencial a favor de la menor resistencia.
+  - 6.- Rotura
+    - Es la mayor prueba de compromiso que tiene que asumir el profesional. Si ha hecho un buen trabajo previo de absorción, romperá con relativa facilidad la estructura con el objetivo de continuar el movimiento fuera de ella.
+  - 7.- Confirmacion
+    - Si el análisis es correcto, se desarrollará un test de la rotura, el cuál confirmará que el profesional está posicionado en esa dirección y que apoya el movimiento.
+
 ### Parada Preliminar<!-- markmap: fold -->
+
+#### Resumen
+
+- ==No es realmente necesario ==a nivel de grafica== ya que el **Evento 2.- Climax** nos da mucha mas informacion que este.==
+- Da inicio a la Fase A de parada de tendencia previa.
+- En esquemas acumulativos se denomina _Preliminary Support (PS)_ y para los exquemas distributivos _Preliminary Supply (PSY)_
+- Antes de producirse el mercado estara en una clara tendencia.
+
+#### Cómo aparece la parada preliminar sobre el gráfico
+
+- Se suele malinterpretar la observación de este evento sobre el gráfico ya que no necesariamente debe observarse una barra con aumento de volumen y expansión en los rangos.
+- Puede verse sobre un conjunto de barras con un rango relativamente más estrecho y con un volumen alto y constante durante todas ellas.
+- Puede verse sobre una única barra con volumen alto y con una gran mecha.
+- ==Estas representaciones al final denotan lo mismo: la primera entrada relevante de los grandes operadores.==
+- ![Evento 1. Parada preliminar - representacion sobre el grafico](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Evento_1_sobre_grafico.png "Evento 1. Parada preliminar - representacion sobre el grafico")
+- Observar una gran barra bajista con un pico de volumen y cierre en mínimos tras un prolongado movimiento a la baja, ==**es un indicio muy claro de compra profesional**==
+- Es probable que esta acción alcance una condición de sobreventa en relación al canal bajista que esté respetando la acción del precio durante el movimiento bajista.
+- ![Evento 1. Parada preliminar - representacion sobre el grafico](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Evento_1_sobre_grafico_2.png "Evento 1. Parada preliminar - representacion sobre el grafico")
+
+#### La psicología detrás de la parada preliminar
+
+- **Los codiciosos**: Al ver un movimiento abrupto del precio entran al mercado para no quedarse fuera.
+- **Los temerosos**: Los que por miedo a tener perdidas abandonan la posicion.
+- **Los listos**: Los que anticiparon el giro y estan en posicion pero el _timing_ no ha sido el correcto y actual demasiado rapido.
+
+#### Usos de la parada preliminar
+
+- **Dejar de pensar en seguir operando** a favor de la tendencia previa al menos inicialmente y **esperar confirmacion de estructura**.
+- Buen punto para tomar beneficios.
+
+##### Preliminary Support
+
+- **Son todos los intentos de parada de una tendencia bajista en los esquemas de acumulacion.**
+- Ver varios sobre el grafico sugiere que se ha ido eliminando oferta del mercado.
+- ==El PS como tal sera el penúltimo intento de parada de la tendencia bajista (el último será el Selling Climax).==
+- ==Se confirmara cuando se desarrollen los cuatro eventos de la Fase A==
+- ![Evento 1. PS- Preliminary Support](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/Evento_1_Preliminary_support.png "Evento 1. PS- Preliminary Support")
+
+#### Preliminary Supply
+
+- **EL PSY Pone fin a la Fase A, de parada de la tendencia alcista previo y da inicio a la Fase B, de construcción de la causa.**
+- Ver varios sobre el grafico sugiere que se ha ido eliminando demanda del mercado.
+- _Preliminary Supply (PSY)_, que en unión con el _Buying Climax (BC)_, el _Automatic Reaction (AR)_ y el _Secondary Test (ST)_, pone fin a la Fase A,
 
 ### Clímax<!-- markmap: fold -->
 

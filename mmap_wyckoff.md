@@ -415,6 +415,35 @@ Villahermosa, Rubén. La Metodología Wyckoff en Profundidad: Cómo operar con l
 
 ### Clímax<!-- markmap: fold -->
 
+#### Resumen
+
+- En **estructuras acumulativas** se llama **Selling Climax (SC)**
+- En **estructuras distributivas** se llama **Bulling Climax (BC)**
+- Después de la aparición de un gran volumen tras una prolongada tendencia (potencial parada), estaremos atentos a la posible identificación de este evento climático.
+- ==Importane: Los eventos de parada preliminar (Preliminary Support/Supply) no siempre aparecen dentro de la secuencia y su función la puede realizar al mismo tiempo el evento de clímax.==
+- ==**La clave del clímax la da el precio**: será necesario ver una fuerte reacción (Evento nº3) y un test (Evento nº4) que den por finalizada la Fase A de parada de la tendencia.==
+- Conclusion
+  - Debemos dejar de pensar en seguir operando a favor de la tendencia previa. Al menos hasta confirmar si la estructura se trata de giro o de continuidad.
+  - Estamos ante la última oportunidad clara de tomar beneficios de nuestras posiciones abiertas si no lo hicimos sobre el evento de parada.
+
+#### Claves del clímax
+
+- Después del evento climático pueden pasar dos cosas
+  - Una reacción (_Automatic Rally/Reaction_) que sera seguida de un _Secondary Test (ST)_
+  - Un movimiento lateral con probabilidad de seguir con la tendencia previa.
+- ==**Requiere que haya un Secondary Test (ST)**==
+- Un volumen mucho mas bajo en un segundo test muestra un a disminucion de la presion vendedora. Llamado "_No Supply / No Demand_" en el enfoque VSA (_Volume Spread Analysis_).
+- ==**Importante:** No necesariamente el clímax será el mayor extremo de la estructura.==
+
+#### Cómo aparece el climax sobre el gráfico
+
+- Una barra con aumento de volumen y expansión en los rangos.
+- Sobre un conjunto de barras con un rango relativamente más estrecho y con un volumen alto y constante durante todas ellas.
+- Sobre una única barra con volumen alto y con una gran mecha en su parte inferior.
+- ==**Importante:** Cuando observamos el _Automatic Rally/Reaction_ y _Secondary Test_ genuinos, automáticamente etiquetaremos como Climax el movimiento previo.""
+
+#### Selling Climax
+
 ### Reacción<!-- markmap: fold -->
 
 ### Test<!-- markmap: fold -->

@@ -5,3 +5,5 @@ Resumen en lenguaje MarDown del libro de Ruben Villahermosa "La metodología Wyc
 Author del libro: [Ruben Villahermosa](https://rubenvillahermosa.com/)
 
 [Libros y Cursos](https://rubenvillahermosa.com/collections/frontpage)
+
+Para visualizarlo simplemente descargate el archivo html **La Metodología Wyckoff en Profundidad - MMap_ES.html** y abrelo en el navegador.

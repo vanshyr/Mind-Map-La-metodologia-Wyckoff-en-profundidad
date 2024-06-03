@@ -18,6 +18,20 @@ markmap:
 - [Ruben Villahermosa](https://rubenvillahermosa.com/)
 - [La Metodología Wyckoff en Profundidad](https://rubenvillahermosa.com/products/la-metodologia-wyckoff-en-profundidad-version-pdf)
 
+### Nomenclaturas<!-- markmap: fold -->
+
+- **Los largos o entrar en largo**: accion de compra, se refiere a los que estan realizando acciones de compra.
+- **Los cortos o entrar en corto**: accion de venta, se refiere a los que estan realizando acciones de venta.
+- **Cerrar positiones**: deshacerse de un activo, osea venderlo.
+- **Stop loss (SL)**: Limite que se establece como condicion para cerrar una posicion cuando esta perdiendo valor.
+- **Take profit (TP)**: Limite que se establece como condicion para cerrar una posicion cuando esta ganando valor.
+- **(PS) Preliminary Support**: Apartado -> Evento 1: Parada Preliminar
+- **(PSY) Preliminary Supply**: Apartado -> Evento 1: Parada Preliminar
+- **(SC) Selling Climax**: Apartado -> Evento 2: Climax
+- **(BC) Buying Climax**: Apartado -> Evento 2: Climax
+- **(AR) Automatic Rally/Reaction**: Apartado -> Evento 3: Reaccion
+- **ChoCh (Change of Character)**: Apartado -> Evento 3: Reaccion
+
 ## Parte 1: Cómo se Mueven los Mercados
 
 ### Ondas<!-- markmap: fold -->
@@ -259,7 +273,7 @@ markmap:
 - Fin del interes por seguir vendiendo.
 - Ligero aumento de demanda provocaria inicio de la tendencia alcista.
 
-### Reacumulacion
+### Reacumulacion<!-- markmap: fold -->
 
 #### Resumen
 
@@ -323,7 +337,7 @@ markmap:
 - No hay mas demanda disponible.
 - Un ligero aumento de la oferta provocariala tendencia bajista.
 
-### Redistribucion
+### Redistribucion<!-- markmap: fold -->
 
 #### Resumen
 
@@ -352,7 +366,7 @@ Villahermosa, Rubén. La Metodología Wyckoff en Profundidad: Cómo operar con l
 - Secuencia que sigue el precio en el desarrollo de estas estructuras.
 - Lo más recomendable es observar tales eventos desde un punto de vista práctico, restando rigidez y proporcionando la mayor flexibilidad posible al análisis.
 - Los eventos son los mismos tanto para acumulaciones como para distribuciones.
-- Eventos:
+- Eventos:<!-- markmap: fold -->
   - 1.- Parada Preliminar
     - Intento por frenar el movimiento tendencial en marcha cuyo resultado siempre fracasará. Es una alerta temprana de que la tendencia puede que esté llegando a su fin.
   - 2.- Climax
@@ -368,7 +382,7 @@ Villahermosa, Rubén. La Metodología Wyckoff en Profundidad: Cómo operar con l
   - 7.- Confirmacion
     - Si el análisis es correcto, se desarrollará un test de la rotura, el cuál confirmará que el profesional está posicionado en esa dirección y que apoya el movimiento.
 
-### Parada Preliminar<!-- markmap: fold -->
+### Evento 1: Parada Preliminar<!-- markmap: fold -->
 
 #### Resumen
 
@@ -413,7 +427,7 @@ Villahermosa, Rubén. La Metodología Wyckoff en Profundidad: Cómo operar con l
 - Ver varios sobre el grafico sugiere que se ha ido eliminando demanda del mercado.
 - _Preliminary Supply (PSY)_, que en unión con el _Buying Climax (BC)_, el _Automatic Reaction (AR)_ y el _Secondary Test (ST)_, pone fin a la Fase A,
 
-### Clímax<!-- markmap: fold -->
+### ==Evento 2: Clímax==<!-- markmap: fold -->
 
 #### Resumen
 
@@ -444,9 +458,146 @@ Villahermosa, Rubén. La Metodología Wyckoff en Profundidad: Cómo operar con l
 
 #### Selling Climax
 
-### Reacción<!-- markmap: fold -->
+##### Resumen
 
-### Test<!-- markmap: fold -->
+- Similar al evento de _Preliminary Support (PS)_.
+- La confirmacion de _Selling Climax_ llega al aparecer dos eventos posteriores que confirman el final de Fase A (_Automatic RAlly (AR)_ y _Secondary Test (ST)_).
+- Es una **señal muy poderosa de fortaleza**.
+- ==El Selling Climax ocurre después de un significante movimiento bajista. Se trata del segundo evento que aparece tras el Preliminary Support y tiene lugar dentro de la Fase A de parada de la tendencia bajista previa.==
+- ==Tiene especial relevancia ya que con su aparición podemos comenzar a definir los límites del rango; y es que su mínimo establece el extremo más bajo de la estructura (zona de soporte).==
+- ![Selling Climax](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/selling_climax.png "Selling Climax").
+
+##### Selling Exhaustion
+
+- **Una tendencia bajista no siempre finalizará con un volumen climático**. Existe otra manera de llegar a su fin y se produce cuando la venta que está controlando la condición del mercado va desapareciendo poco a poco.
+- Este desinterés será representado sobre el gráfico con velas de rango normal o estrecho y volumen promedio o incluso bajo.
+- Una señal de su posible aparición la obtenemos cuando el precio desarrolla continuas acciones de Preliminary Support.
+- Esto puede provocar que se desarrolle ese suelo de mercado sin ver sobre el último mínimo una expansión en los rangos del precio y en el volumen.
+- ![Selling Exhaustion](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/selling_exhaustion.png "Selling Exhaustion").
+
+#### Buying Climax
+
+##### Resumen
+
+- El _Buying Climax (BC)_ es una potente **señal de debilidad** del mercado.
+- El _Buying Climax (BC)_ es el segundo evento que aparece tras el _Preliminary Supply (PSY)_ y tiene lugar dentro de la _Fase A_ de parada de la tendencia alcista previa.
+- ==**Se trata de una trampa**==. Un engaño donde parece que se esté comprando con cierta agresividad cuando en realidad la intención que hay detrás es totalmente la opuesta. Todas las compras están siendo bloqueadas con órdenes de venta. El precio no puede subir porque alguien con la capacidad para hacerlo está desarrollando un proceso de absorbiendo.
+- ==Con la aparición del _Buying Climax_ comenzamos a definir los límites del rango y es que su máximo establece el extremo superior de la estructura (zona de resistencia).==
+- El _Buying Cimax (BC)_ logra detener la tendencia alcista previa, el PSY no.
+- ==Se confirma el BC con la aparecion del (Automatic Reaction y Secondary Test) finaliznado al Fase A.==
+- ![Buying Climax](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/buying_climax.png "Buying Climax").
+
+##### Buying Exhaustion<!-- markmap: fold -->
+
+- Una tendencia alcista no siempre finalizará con un volumen climático, otra manera es cuando la compra que está controlando la condición del mercado va desapareciendo poco a poco.
+- Esta representado sobre el gráfico con **velas de rango normal o estrecho y volumen promedio o incluso bajo.**
+- Se observarán potenciales Preliminary Supply donde probablemente el volumen general vaya en disminución.
+- Esto puede provocar que se desarrolle ese techo de mercado sin ver sobre el último máximo una expansión en los rangos del precio y en el volumen.
+- ![Buying Exhaustion](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/buying_exhaustion.png "Buying Exhaustion").
+
+### Evento 3: Reacción<!-- markmap: fold -->
+
+#### Resumen
+
+- Tras la aparición del potencial clímax se producirá una reacción que dejará visualmente un gran movimiento en la dirección opuesta, confirmando finalmente la aparición del evento climático.
+- **Para esquemas acumulativos se denomina Automatic Rally (AR)**, mientras que para las **estructuras distributivas lo etiquetaremos como Automatic Reaction (AR)**.
+- Este **ChoCh (Change of Character)** tiene grandes implicaciones, pone fin a la tendencia previa y da inicio a la lateralizacion del precio.
+- ==Debe confirmarse con el último evento de la Fase A: el Secondary Test.==
+
+- Usos de la reaccion
+
+  - Delimita los límites de la estructura <!-- markmap: fold -->
+
+    - Es uno de los elementos importantes ya que su extremo sirve para identificar uno de los límites de la estructura.
+    - _Automatic Rally (AR)_: **establece el límite superior del rango**, delimitando una clara zona de resistencia sobre la que se espera la aparición de nueva venta en subsiguientes visitas.
+    - _Automatic Reaction (AR)_: **establece el límite inferior del rango**, delimitando una clara zona de soporte sobre la que se espera la aparición de nueva compra en subsiguientes visitas.
+
+  - Identifica el evento climático<!-- markmap: fold -->
+
+    - La reacción es de relevante importancia ya que en ocasiones no estará muy claro cuándo ha aparecido el genuino clímax.
+    - _Automatic Rally (AR)_: identificará el genuino Selling Climax.
+    - _Automatic Reaction (AR)_: identificará el genuino Buying Climax.
+
+  - Nos provee del contexto de mercado<!-- markmap: fold -->
+
+    - Si estamos acertados en la identificación del clímax y la reacción, el cambio de carácter del mercado está en curso y sabemos que el precio irá a testear esa acción climática para desarrollar el Secondary Test.
+    - **Nos ofrece un contexto.**
+    - ==Si has identificado correctamente el Selling Climax y ahora el Automatic Rally, puedes bajar de marco temporal para buscar el desarrollo de una estructura menor de distribución que genere el final de Automatic Rally y el giro bajista que vaya buscar el desarrollo del Secondary Test.==
+    - ==Si has identificado el genuino Buying Climax y ahora el Automatic Reaction, puedes bajar de marco temporal para buscar el desarrollo de una estructura menor de acumulación que genere el final del Automatic Reaction y el giro alcista que vaya buscar el desarrollo del Secondary Test.==
+
+  - Oportunidad para tomar beneficios
+    - Si en un ejercicio de temeridad operaste sobre el evento climático buscando precisamente ese rebote, esta posición no deberías mantenerla durante todo el desarrollo del rango, ya que en principio no podemos saber si se tratará de una estructura de giro o de continuidad. Lo más sensato sería cerrar la posición sobre el Automatic Rally/Reaction obteniendo un corto beneficio.
+
+#### Las implicacions de su desarrollo
+
+- ==La distancia que recorra dicho movimiento será uno de los elementos que tendremos en cuenta posteriormente.==
+- Movimiento de potencial reacción que es entrelazado, no recorre gran distancia y no hay un alto volumen -> sugiere que el mercado no esta en equilibrio.
+- Si esto sucede tras un potencial Selling Climax -> sugiere proceso de redistribución
+- Si parece un proceso de distribución + movimiento de reaccion bajista (Automatic Reaction) es entrelazado + no hay distancia + no hay pico de volumen + Secondary Test finaliza por encima del máximo que establece el Buying Climax -> sospechamos de estructura de reacumulación.
+
+#### La anatomía de la reacción
+
+- Generalmente, el volumen al inicio del movimiento será grande
+  -Según avanza el movimiento, el volumen irá en disminución hasta que al final sea relativamente bajo. Este secado del volumen nos sugiere falta de interés en seguir en esa dirección y pondrá fin a la reacción.
+- Con los rangos del precio sucede prácticamente lo mismo. Al comienzo del movimiento observaremos unos rangos amplios, buenas velas/barras de tendencia que irán progresivamente estrechándose según se acercan al final de dicho evento.
+
+#### Automatic Rally
+
+##### Resumen
+
+- El Automatic Rally es un movimiento alcista del precio que se desarrolla tras producirse el final del Selling Climax y que aparece como primera señal del interés comprador.
+- Es un evento que forma parte de la Fase A de parada de la tendencia previa y tiene lugar tras el _Preliminary Support_ y el _Selling Climax_.
+- ![Automatic Rally](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/automatic_rally.png "Automatic Rally").
+
+##### Por qué se produce el Automatic Rally
+
+- Durante la tendencia bajista el precio alcanzara una condicion de sobreventa. Dando lugar a:
+  - **Agotamiento de la oferta**. Dejan de entrar vendedores agresivos al mercado.
+  - **Cobertura de cortos**. Los vendedores que habrían entrado más arriba cierran sus posiciones.
+  - **Aparición de la demanda**. Nuevos compradores entran al observar el evento climático.
+
+#### Automatic Reaction
+
+- El Automatic Reaction es un significante movimiento bajista del precio que aparece como primera señal del interés vendedor.
+- Forma parte de la Fase A de parada de la tendencia previa y se desarrolla tras producirse el Preliminary Supply y el Buying Climax.
+- ![Automatic Reaction](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/automatic_reaction.png "Automatic Reaction").
+
+##### Por qué se produce el Automatic Rally
+
+- Durante la tendencia alcista el mercado alcanzara una condicion de sobrecompra. Dando lugar a:
+  - **Agotamiento de la demanda**. No hay compradores agresivos dispuestos a seguir comprando.
+  - **Cobertura de largos**. Los compradores que habrían entrado más abajo cierran sus posiciones tomando beneficios.
+  - **Aparición de la demanda**. Nuevos vendedores entran al observar el evento climático previo.
+
+### Evento 4: Test<!-- markmap: fold -->
+
+#### Resumen
+
+- Establece el final de la _Fase A_, de parada de la tendencia previa, y da origen al inicio de la _Fase B_, de construcción de la causa.
+- ![Evento 4 - Test](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/secondary_test.png "Evento 4 - Test").
+
+#### Funciones del Secondary Test
+
+- Nos informa acerca del contexto del mercado;
+- En los esquemas acumulativos, **contexto de tendencia bajista a lateralizacion del precio**.
+- En los distributivos cambio el **contexto de tendencia alcista a rango**.
+- ![Evento 4 - Fase A - B](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/phase_a_b.png "Evento 4 - Fase A - B")
+- El tipo de operativa que podremos desarrollar aquí es esperar al precio en dichos extremos y buscar un giro hacia el lado opuesto.
+  - Directamente desde el marco temporal en el que estemos trabajando
+  - O bien bdisminuir de marco temporal para buscar ahí una estructura menor de giro.
+    - En la **zona superior**, buscaremos una **estructura menor de distribución**.
+    - En la **zona inferior**, buscaremos una **estructura menor de acumulación**.
+
+#### Características del Secondary Test
+
+- Secondary Test sea exitoso: movimiento bajista con estrechamiento en los rangos del precio y volumen menor que el anterior evento.
+- La posición donde se desarrolle el final del Secondary Test podría ofrecernos una lectura interesante sobre el control del mercado en ese momento:
+  - Si finaliza en la parte media del rango -> equilibrio entre los participantes.
+  - Si esta un tercio superior al rango -> equilibro a favor de comrpadores.
+  - Si esta ligeramente por debajo del minimo del rango -> desequilibrio a favor de los vendedores.
+- Esto junto con el resto de elementos nos indican si estamos ante una estructura acumulativa o distributiva.
+
+- ![Evento 4 - Características del Secondary Test](https://raw.githubusercontent.com/vanshyr/Mind-Map-La-metodologia-Wyckoff-en-profundidad/main/img/caracteristicas_secondary_test.png "Evento 4 - Características del Secondary Test")
 
 ### Sacudida<!-- markmap: fold -->
 
